@@ -1,2 +1,2 @@
 # AssaultCube-Cheat-2.0
-Simple AssaultCube Cheat int C#
+Simple AssaultCube External Cheat in C#
